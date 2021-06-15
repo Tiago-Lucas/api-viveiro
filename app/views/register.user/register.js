@@ -8,6 +8,7 @@ function Register(){
         <Title>Login</Title>
         <Input placeholderTextColor="#fff" placeholder="E-mail"/>
         <Input placeholderTextColor="#fff" placeholder="Senha" secureTextEntry/>
+        <Input placeholderTextColor="#fff" placeholder="Confirme a Senha" secureTextEntry/>
         <ButtonSubmit>
             <Textsubmit>Registrar</Textsubmit>
         </ButtonSubmit>

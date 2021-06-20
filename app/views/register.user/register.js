@@ -6,9 +6,10 @@ function Register(){
     return(
         <Container>
         <Title>Login</Title>
-        <Input placeholderTextColor="#fff" placeholder="E-mail"/>
-        <Input placeholderTextColor="#fff" placeholder="Senha" secureTextEntry/>
-        <Input placeholderTextColor="#fff" placeholder="Confirme a Senha" secureTextEntry/>
+        <Input placeholderTextColor="#000" placeholder="Nome"/>
+        <Input placeholderTextColor="#000" placeholder="E-mail"/>
+        <Input placeholderTextColor="#000" placeholder="Senha" secureTextEntry/>
+        <Input placeholderTextColor="#000" placeholder="Confirme a Senha" secureTextEntry/>
         <ButtonSubmit>
             <Textsubmit>Registrar</Textsubmit>
         </ButtonSubmit>

@@ -4,9 +4,10 @@ export const Container = styled.KeyboardAvoidingView`
 flex: 1;
 align-items:center;
 justify-content: center;
-background-color: #bababc;
+background-color: #fff;
 padding: 30px
-width:100%`
+width:100%
+`
 
 export const Title = styled.Text `
 color : #0f3c27;

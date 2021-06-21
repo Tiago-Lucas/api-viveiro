@@ -30,6 +30,7 @@ background-color: #66903c
 border-radius: 9px
 width:90%
 padding: 15px 20px
+margin: 0 0 10px 0;
 align-items:center;
 `
 

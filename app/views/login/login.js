@@ -7,7 +7,7 @@ const Login = ({navigation}) =>{
         <Title>Login</Title>
         <Input placeholderTextColor="#000" placeholder="E-mail"/>
         <Input placeholderTextColor="#000" placeholder="Senha" secureTextEntry/>
-        <ButtonSubmit >
+        <ButtonSubmit onPress={()=> navigation.navigate('Home')} >
             <Textsubmit>Entrar</Textsubmit>
         </ButtonSubmit>
         <ButtonSubmit onPress={()=> navigation.navigate('Register')}>
